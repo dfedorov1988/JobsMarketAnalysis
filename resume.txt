@@ -1,0 +1,45 @@
+
+Ph.D. Data Scientist with 8+ years of research experience and expertise in data analysis, software development and distributed computing.
+TECHNICAL PROFICIENCIES
+Programming	Python, Fortran, Matlab, R, C++, Mathematica, Unix Shell, SQL
+Data Science Tools	NumPy, SciPy, Pandas, Matplotlib, Scikit-Learn, spaCy, Bokeh
+Tools	Eclipse IDE, PyCharm, version control (Git, SVN, Mercurial)
+PROFESSIONAL EXPERIENCE
+
+Research Associate (July 2017 - Present)	Michigan State University, East Lansing, MI
+Working on several major chemistry and physics problems. Designing and developing open-source data analysis software and distributed computing software.
+Key Achievements:
+	Built an open-source Python library for computational chemistry (PySpawn) in collaboration with a group of researchers. It is intended for molecular reactions’ simulations in a high-performance computing environment.
+	Developed analysis and visualization tool (Python) for the output of pySpawn program, which automates generation of reports for simulations with all relevant plots and key metrics saving tens of hours of manual analysis work for a publication-size project. 
+	Developed and programmed a new method for molecular dynamics simulations, which for some systems can reduce computation time by a factor of up to 100 compared to available methods.
+ 
+Graduate Assistant (August 2012 - June 2017)	University of Nevada, Reno, NV
+Coordinated with professors and research associates to complete numerous large-scale research projects in the physical sciences. Taught courses and mentored students in advanced topics in mathematics, chemistry, and physics.
+Key Achievements:
+	Developed and programmed (object-oriented Fortran) new method to study molecular dynamics which allowed to incorporate previously neglected effects into simulations.
+	Supported 300 CPU-core high-performance Linux computer cluster with ownership over installation and updates of hardware and scientific software, as well as script writing and management of job scheduling systems.
+
+
+
+EDUCATION & CREDENTIALS
+ 
+Ph.D. in Chemical Physics (May 2017) 
+University of Nevada, Reno, NV
+ 
+M.S. & B.S., Physics (January 2011)
+Siberian Federal University, Krasnoyarsk, Russia
+Organizations
+American Chemical Society
+Chemistry Graduate Student Association
+Awards
+Department of Chemistry Research Assistant of the Year Award, University of Nevada, Reno, 2016.
+Outstanding Student Poster Award, American Chemical Society National Meeting, San Diego, CA, 2016.
+Outstanding International Graduate Student, University of Nevada, Reno, 2016.
+Gene and Carla LeMay Scholarship, University of Nevada, Reno, 2013.
+SELECTED PUBLICATIONS
+1)	D. A. Fedorov, B. G. Levine, Nonadiabatic Quantum Molecular Dynamics in Dense Manifolds of Electronic States, J. Phys. Chem. Lett. 10 (16), 4542–4548 (2019).
+2)	D. A. Fedorov, B. G. Levine, A Discontinuous Basis Enables Numerically Exact Solution of the Schrodinger Equation around Conical Intersections in the Adiabatic Representation, J. Chem. Phys. 150, 054102 (2019).
+3)	D. A. Fedorov, A. O. Lykhin, S. A. Varganov, Predicting Intersystem Crossing Rates with AIMS-DFT Molecular Dynamics, J. Phys. Chem. A 122 (13), 3480–3488 (2018).
+4)	D. A. Fedorov, D. K. Barnes, S. A. Varganov, Ab initio calculations of spectroscopic constants and vibrational state lifetimes of diatomic alkali-alkaline-earth cations, J. Chem. Phys. 147, 124304 (2017).
+5)	D. A. Fedorov, S. R. Pruitt, K. Keipert, M. S. Gordon, S. A. Varganov, Ab Initio Multiple Spawning Method for Intersystem Crossing Dynamics: Spin-Forbidden Transitions between 3B1 and 1A1 States of GeH2, J. Phys. Chem. A 120, 2911-2919 (2016).
+6)	D. A. Fedorov, A. Derevianko, S. A. Varganov, Accurate Potential Energy, Dipole Moment Curves, and Lifetimes of Vibrational States of Heteronuclear Alkali Dimers, J. Chem. Phys. 140, 184315 (2014).
